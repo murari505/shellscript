@@ -3,4 +3,4 @@
 #this line is commented
 
 echo "hello world!"
-echo "Hi , eorld!"
+echo "Hi , world!"
