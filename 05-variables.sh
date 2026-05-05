@@ -5,3 +5,7 @@ echo "please enter your username::"  # test entered here will be value of variab
 read -s USERNAME  # here USERNAME IS THE VARIABLE NAME
 
 echo "username enterd: $USERNAME"
+
+echo "please enter your password::"
+
+read -s PASSWORD
