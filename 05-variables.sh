@@ -1,5 +1,7 @@
 #!/bin/bash
 
-echo "please enter your username::"
+echo "please enter your username::"  # test entered here will be value of variables
 
-read USERNAME
+read -s USERNAME  # here USERNAME IS THE VARIABLE NAME
+
+echo "username enterd: $USERNAME"
